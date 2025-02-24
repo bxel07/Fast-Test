@@ -38,13 +38,6 @@ pip install -r requirements.txt
 ### 4. Run the Application
 ```bash
 uvicorn app.main:app --reload
-```
-
-The API will be available at `http://localhost:8000`
-- Swagger UI documentation: `http://localhost:8000/docs`
-- ReDoc documentation: `http://localhost:8000/redoc`
-
-## Initial Setup for Project Creation
 
 If you're creating this project from scratch:
 
